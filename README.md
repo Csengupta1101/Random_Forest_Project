@@ -1,2 +1,3 @@
 # Random_Forest_Project
-This project is about a random forest algorithm prediction using titanic dataset
+
+This project takes user input of passenger data travelled in Titanic ship and predicts if they have survived or not.
